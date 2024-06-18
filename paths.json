@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/aem-eds-ken/:/",
-    "/content/aem-eds-ken/metadata:/metadata.json"
+    "/content/aem-eds-ken/:/"
   ]
 }
